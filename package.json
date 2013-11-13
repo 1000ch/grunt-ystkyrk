@@ -1,17 +1,18 @@
 {
   "name": "grunt-ystkyrk",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "僕は誓う。50年後の君を、今と変わらず愛している。",
-  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/1000ch/grunt-ystkyrk.git"
   },
   "keywords": [
+    "ystkyrk",
+    "grunt",
     "gruntplugin"
   ],
   "author": "1000ch",
-  "license": "MIT",
+  "license": "@ystk_yrk & UNITED ARROWS LTD.",
   "bugs": {
     "url": "https://github.com/1000ch/grunt-ystkyrk/issues"
   },
