@@ -7,4 +7,4 @@
 ## License
 
 - [@ystk_yrk](https://twitter.com/ystk_yrk)
-- [UNITED ARROWS LTD.](http://www.united-arrows.jp/‎)
+- [UNITED ARROWS LTD.](http://www.united-arrows.jp/)
