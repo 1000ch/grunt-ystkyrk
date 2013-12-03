@@ -1,6 +1,6 @@
 {
   "name": "grunt-ystkyrk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "僕は誓う。50年後の君を、今と変わらず愛している。",
   "repository": {
     "type": "git",
@@ -17,8 +17,12 @@
     "url": "https://github.com/1000ch/grunt-ystkyrk/issues"
   },
   "dependencies": {
-    "grunt": "~0.4.1",
     "play": "~0.5.0"
   },
-  "author": "1000ch"
+  "devDependencies": {
+    "grunt-sync-version": "~0.2.0"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.2"
+  }
 }
