@@ -20,7 +20,7 @@
     "play": "~0.5.0"
   },
   "devDependencies": {
-    "grunt-sync-version": "~0.2.0"
+    "grunt-sync-version": "^0.2.1"
   },
   "peerDependencies": {
     "grunt": "~0.4.2"
